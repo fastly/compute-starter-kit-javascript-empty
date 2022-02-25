@@ -1,5 +1,5 @@
 manifest_version = 2
-name = "Default starter for JavaScript"
-description = "A basic starter kit that demonstrates routing, simple synthetic responses and overriding caching rules."
+name = "Empty starter for JavaScript"
+description = "An empty application template for the Fastly Compute@Edge environment which simply returns a 200 OK response."
 authors = ["<oss@fastly.com>"]
 language = "javascript"
