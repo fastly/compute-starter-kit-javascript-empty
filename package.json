@@ -5,7 +5,7 @@
   "author": "oss@fastly.com",
   "license": "MIT",
   "engines": {
-    "node": "^16"
+    "node": ">=16.0.0"
   },
   "devDependencies": {
     "core-js": "^3.19.1",
@@ -13,7 +13,7 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@fastly/js-compute": "^0.3.0"
+    "@fastly/js-compute": "^0.5.2"
   },
   "scripts": {
     "prebuild": "webpack",
