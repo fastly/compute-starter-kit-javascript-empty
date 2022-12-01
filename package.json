@@ -2,8 +2,16 @@
   "name": "compute-starter-kit-javascript-empty",
   "version": "0.3.0",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastly/compute-starter-kit-javascript-empty.git"
+  },
   "author": "oss@fastly.com",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fastly/compute-starter-kit-javascript-empty/issues"
+  },
+  "homepage": "https://developer.fastly.com/solutions/starters/compute-starter-kit-javascript-empty",
   "engines": {
     "node": ">=16.0.0"
   },
