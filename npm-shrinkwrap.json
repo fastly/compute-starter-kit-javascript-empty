@@ -5,13 +5,13 @@
   "requires": true,
   "packages": {
     "": {
+      "name": "compute-starter-kit-javascript-empty",
       "version": "0.3.0",
       "license": "MIT",
       "dependencies": {
         "@fastly/js-compute": "^0.5.4"
       },
       "devDependencies": {
-        "core-js": "^3.19.1",
         "webpack": "^5.64.0",
         "webpack-cli": "^4.9.1"
       },
@@ -481,17 +481,6 @@
       "version": "0.0.1",
       "resolved": "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz",
       "integrity": "sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg=="
-    },
-    "node_modules/core-js": {
-      "version": "3.23.3",
-      "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.23.3.tgz",
-      "integrity": "sha512-oAKwkj9xcWNBAvGbT//WiCdOMpb9XQG92/Fe3ABFM/R16BsHgePG00mFOgKf7IsCtfj8tA1kHtf/VwErhriz5Q==",
-      "dev": true,
-      "hasInstallScript": true,
-      "funding": {
-        "type": "opencollective",
-        "url": "https://opencollective.com/core-js"
-      }
     },
     "node_modules/cross-spawn": {
       "version": "7.0.3",
@@ -1967,12 +1956,6 @@
       "version": "0.0.1",
       "resolved": "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz",
       "integrity": "sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg=="
-    },
-    "core-js": {
-      "version": "3.23.3",
-      "resolved": "https://registry.npmjs.org/core-js/-/core-js-3.23.3.tgz",
-      "integrity": "sha512-oAKwkj9xcWNBAvGbT//WiCdOMpb9XQG92/Fe3ABFM/R16BsHgePG00mFOgKf7IsCtfj8tA1kHtf/VwErhriz5Q==",
-      "dev": true
     },
     "cross-spawn": {
       "version": "7.0.3",
