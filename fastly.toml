@@ -4,8 +4,8 @@
 authors = ["<oss@fastly.com>"]
 description = "An empty application template for the Fastly Compute@Edge environment which simply returns a 200 OK response."
 language = "javascript"
-manifest_version = 2
+manifest_version = 3
 name = "Empty starter for JavaScript"
 
 [scripts]
-  build = "npm run build"
+build = "npm run build"
