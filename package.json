@@ -12,9 +12,6 @@
     "url": "https://github.com/fastly/compute-starter-kit-javascript-empty/issues"
   },
   "homepage": "https://developer.fastly.com/solutions/starters/compute-starter-kit-javascript-empty",
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "dependencies": {
     "@fastly/js-compute": "^1.5.1"
   },
