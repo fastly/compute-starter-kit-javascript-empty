@@ -5,11 +5,8 @@
   "requires": true,
   "packages": {
     "": {
-      "name": "compute-starter-kit-javascript-empty",
-      "version": "0.4.0",
-      "license": "MIT",
       "dependencies": {
-        "@fastly/js-compute": "^3.0.0"
+        "@fastly/js-compute": "^3.1.0"
       }
     },
     "node_modules/@babel/regjsgen": {
@@ -479,9 +476,9 @@
       }
     },
     "node_modules/@fastly/js-compute": {
-      "version": "3.0.0",
-      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.0.0.tgz",
-      "integrity": "sha512-ydfmUTf0Nln8Tggcwf97Hk7IYHprNr2CHZ8gPRXyVhWCKKC3iVCj6tPrSlT+4W5cVD3R4WiGQg/R0RTFAevxHA==",
+      "version": "3.1.1",
+      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.1.1.tgz",
+      "integrity": "sha512-kusHCHCCazdaTn2Ff5WxnGUrSoO2Vkmxoq0DVzqnMBE8eymfe6+fGLX+WoiaaXEqjnjH+zbzrjQSWA2ogoxGQw==",
       "dependencies": {
         "@bytecodealliance/jco": "^0.9.1",
         "@bytecodealliance/wizer": "^3.0.1",
@@ -1402,9 +1399,9 @@
       "optional": true
     },
     "@fastly/js-compute": {
-      "version": "3.0.0",
-      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.0.0.tgz",
-      "integrity": "sha512-ydfmUTf0Nln8Tggcwf97Hk7IYHprNr2CHZ8gPRXyVhWCKKC3iVCj6tPrSlT+4W5cVD3R4WiGQg/R0RTFAevxHA==",
+      "version": "3.1.1",
+      "resolved": "https://registry.npmjs.org/@fastly/js-compute/-/js-compute-3.1.1.tgz",
+      "integrity": "sha512-kusHCHCCazdaTn2Ff5WxnGUrSoO2Vkmxoq0DVzqnMBE8eymfe6+fGLX+WoiaaXEqjnjH+zbzrjQSWA2ogoxGQw==",
       "requires": {
         "@bytecodealliance/jco": "^0.9.1",
         "@bytecodealliance/wizer": "^3.0.1",
